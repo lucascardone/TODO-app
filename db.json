@@ -1,0 +1,25 @@
+{
+  "pedidos": [
+    {
+      "id": 1,
+      "title": "Big Mac",
+      "body": "La perfección hecha hamburguesa que te hace agua la boca comienza con dos patties de 100% carne y la salsa Big Mac®, todo dentro de un pan con semillas de ajonjolí. Viene cubierta con pepinillos, crujiente lechuga, cebollas y queso americano para lograr ese sabor único de la hamburguesa 100% de carne.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Big_Mac_hamburger.jpg/273px-Big_Mac_hamburger.jpg",
+      "list": 2
+    },
+    {
+      "id": 2,
+      "title": "Quarter Pounder",
+      "body": "La Quarter Pounder es una hamburguesa que satisface el hambre real. Con un cuarto de libra de carne 100% de res, queso, cebolla, pepinillos y mostaza, es una opción deliciosa para los amantes de la carne.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/McDonald%27s_Quarter_Pounder_with_Cheese%2C_United_States.jpg/1200px-McDonald%27s_Quarter_Pounder_with_Cheese%2C_United_States.jpg",
+      "list": 1
+    },
+    {
+      "id": 3,
+      "title": "McNuggets",
+      "body": "Los McNuggets son pedacitos de pollo empanizados que a todos les encantan. Disponibles en varias opciones de tamaños, son perfectos para compartir o disfrutar en solitario.",
+      "img": "https://ksdy50.com/wp-content/uploads/2023/01/mcdonalds-4-chicken-mcnuggets-1_1-3-product-tile-desktop.jpg",
+      "list": 3
+    }
+  ]
+}
